@@ -116,7 +116,7 @@ export const info = {
           image: vast,
           description: "Corporate site for Vast Exim showcasing rice export services with a focus on quality, performance, and global reach.",
           stack: ["NextJS", "Tailwind CSS", "Express", "Node.js"],
-          live: "https://rathioverseas.com/",
+          live: "https://www.vastgroup.co.in/",
         },
         {
           title: "Ah Helpline",
